@@ -28,7 +28,7 @@ main {
     transform: translate(-40%, -60%); } }
 h1 {
   color: #6dc2a3;
-  font-family: "Open Sans";
+  font-family: "Roboto Slab";
   font-size: 3em; }
 
 p {
@@ -75,5 +75,18 @@ a:hover {
 
 .subh a:hover {
   color: #c27171; }
+
+.searchfield {
+  background: #456472;
+  color: #eff1f5;
+  border: none;
+  display: block;
+  font-family: "Open Sans",Helvetica,Arial,sans-serif;
+  font-size: .9em;
+  height: 25px;
+  margin: 10px auto;
+  padding: 5px 0 5px 10px;
+  transition: .2s;
+  width: 300px; }
 
 /*# sourceMappingURL=main.css.map */

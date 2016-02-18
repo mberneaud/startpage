@@ -28,7 +28,7 @@ main {
 
 h1 {
   color: $color10;
-  font-family: "Open Sans";
+  font-family: "Roboto Slab";
   font-size: 3em;
 }
 
@@ -85,4 +85,18 @@ a:hover {
 
 .subh a:hover {
   color:$color9;
+}
+
+.searchfield {
+  background: $color8;
+  color: $color15;
+  border: none;
+  display: block;
+  font-family: "Open Sans",Helvetica,Arial,sans-serif;
+  font-size: .9em;
+  height: 25px;
+  margin: 10px auto;
+  padding: 5px 0 5px 10px;
+  transition: .2s;
+  width: 300px;
 }
