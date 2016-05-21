@@ -28,17 +28,15 @@ main {
     transform: translate(-40%, -60%); } }
 h1 {
   color: #6dc2a3;
-  font-family: "Roboto Slab";
-  font-size: 3em; }
+  font-family: "Terminus";
+  font-size: 26pt;
+  letter-spacing: 1px;
+  padding-left: 4px; }
 
 p {
   color: #c0c5ce;
-  font-family: "Clear Sans";
-  font-size: 1em; }
-
-code {
-  font-family: "Inconsolata";
-  font-size: 1em; }
+  font-family: "GohuFont";
+  font-size: 7pt; }
 
 ul {
   display: block;
@@ -46,8 +44,8 @@ ul {
 
 li {
   display: inline-block;
-  font-family: "Clear Sans";
-  font-size: 1em;
+  font-family: "GohuFont";
+  font-size: 7pt;
   line-height: 1.5;
   list-style: none;
   margin: 0 5px; }
@@ -81,8 +79,8 @@ a:hover {
   color: #eff1f5;
   border: none;
   display: block;
-  font-family: "Open Sans",Helvetica,Arial,sans-serif;
-  font-size: .9em;
+  font-family: "GohuFont";
+  font-size: 7pt;
   height: 25px;
   margin: 10px auto;
   padding: 5px 0 5px 10px;
