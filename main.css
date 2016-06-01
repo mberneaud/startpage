@@ -27,16 +27,16 @@ main {
     left: 40%;
     transform: translate(-40%, -60%); } }
 h1 {
-  color: #6dc2a3;
-  font-family: "Terminus";
-  font-size: 26pt;
+  color: #6A99CA;
+  font-family: "Ubuntu";
+  font-size: 28pt;
   letter-spacing: 1px;
   padding-left: 4px; }
 
 p {
   color: #c0c5ce;
-  font-family: "GohuFont";
-  font-size: 7pt; }
+  font-family: "Ubuntu";
+  font-size: 12pt; }
 
 ul {
   display: block;
@@ -44,8 +44,8 @@ ul {
 
 li {
   display: inline-block;
-  font-family: "GohuFont";
-  font-size: 7pt;
+  font-family: "Ubuntu";
+  font-size: 12pt;
   line-height: 1.5;
   list-style: none;
   margin: 0 5px; }
@@ -61,12 +61,12 @@ li {
   color: #c27171; }
 
 a {
-  color: #63a69b;
+  color: #6A99CA;
   text-decoration: none;
   transition: .2s; }
 
 a:hover {
-  color: #71c2af; }
+  color: #9ABBDE; }
 
 .subh a {
   color: #a66363; }
@@ -79,12 +79,12 @@ a:hover {
   color: #eff1f5;
   border: none;
   display: block;
-  font-family: "GohuFont";
-  font-size: 7pt;
+  font-family: "Ubuntu";
+  font-size: 12pt;
   height: 25px;
   margin: 10px auto;
   padding: 5px 0 5px 10px;
   transition: .2s;
-  width: 300px; }
+  width: 400px; }
 
 /*# sourceMappingURL=main.css.map */
